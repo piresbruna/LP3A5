@@ -1,4 +1,4 @@
-package fonte;
+package produtorConsumidor.fonte;
 
 public class Producer implements Runnable {
     Q q;

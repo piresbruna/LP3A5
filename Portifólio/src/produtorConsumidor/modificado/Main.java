@@ -1,6 +1,6 @@
-package produtorConsumidorAlt;
+package produtorConsumidor.modificado;
 /*
-* Adaptado da solução em: https://acervolima.com/solucao-produtor-consumidor-usando-semaforos-em-java-conjunto-2/
+* Modificado da solução em: https://acervolima.com/solucao-produtor-consumidor-usando-semaforos-em-java-conjunto-2/
 * */
 public class Main {
     public static void main(String[] args) {

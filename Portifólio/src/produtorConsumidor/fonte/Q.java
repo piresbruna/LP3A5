@@ -1,4 +1,4 @@
-package fonte;
+package produtorConsumidor.fonte;
 
 import java.util.concurrent.Semaphore;
 

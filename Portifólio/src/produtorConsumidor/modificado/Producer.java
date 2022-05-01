@@ -1,4 +1,4 @@
-package produtorConsumidorAlt;
+package produtorConsumidor.modificado;
 
 public class Producer implements Runnable{
     Buffer buffer;

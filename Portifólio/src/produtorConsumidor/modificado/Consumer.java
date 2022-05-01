@@ -1,4 +1,4 @@
-package produtorConsumidorAlt;
+package produtorConsumidor.modificado;
 
 
 public class Consumer implements Runnable{

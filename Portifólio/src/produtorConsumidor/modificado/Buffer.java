@@ -1,4 +1,4 @@
-package produtorConsumidorAlt;
+package produtorConsumidor.modificado;
 
 import java.util.concurrent.Semaphore;
 

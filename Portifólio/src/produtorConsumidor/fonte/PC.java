@@ -1,4 +1,4 @@
-package fonte;
+package produtorConsumidor.fonte;
 /*
 * Solução encontrada em: https://acervolima.com/solucao-produtor-consumidor-usando-semaforos-em-java-conjunto-2/
 * Q : a fila que você está tentando sincronizar
