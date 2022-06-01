@@ -29,6 +29,10 @@ Contém exercícios de prática dos conceitos vistos em aula.
 
 Exemplo de aplicação de semáforos com duas threads, onde uma produz conteúdo para uma fila limitada, enquanto outra consome o que é produzido. O exemplo sincroniza as threads de modo que o item seja consumido logo após a sua produção.
 
-#### Interfaces Funcionais
+#### Métodos de Stream
 
-- Em desenvolvimento local.
+Exemplos de uso do `anyMatch` e `allMatch`.
+
+#### Exceções Calculadora
+
+Calculadora MVC que utilizava de exceções apenas do tipo `RunTimeException`. Refatoração do código para haver menos lançamento de exceções ou alterá-las para exceções próprias com extensão da classe `Exception`.
