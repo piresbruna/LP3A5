@@ -25,14 +25,18 @@ Foram feitos vários pequenos exemplos implementos funções ou as combinando de
 
 Contém exercícios de prática dos conceitos vistos em aula.
 
-#### Produtor/Consumidor
+#### [Produtor/Consumidor](https://github.com/piresbruna/LP3A5/tree/main/Portif%C3%B3lio/src/produtorConsumidor)
 
 Exemplo de aplicação de semáforos com duas threads, onde uma produz conteúdo para uma fila limitada, enquanto outra consome o que é produzido. O exemplo sincroniza as threads de modo que o item seja consumido logo após a sua produção.
 
-#### Métodos de Stream
+#### [Métodos de Stream](https://github.com/piresbruna/LP3A5/tree/main/Portif%C3%B3lio/src/metodosStream)
 
 Exemplos de uso do `anyMatch` e `allMatch`.
 
-#### Exceções Calculadora
+#### [Exceções Calculadora](https://github.com/piresbruna/LP3A5/tree/main/Portif%C3%B3lio/src/exceptionsRefactorCalculadora)
 
 Calculadora MVC que utilizava de exceções apenas do tipo `RunTimeException`. Refatoração do código para haver menos lançamento de exceções ou alterá-las para exceções próprias com extensão da classe `Exception`.
+
+#### [Coding Dojo](https://github.com/piresbruna/LP3A5/tree/main/Portif%C3%B3lio/src/codingDojo/refactor)
+
+Prática de refatoração usando um [desafio](https://github.com/emilybache/GildedRose-Refactoring-Kata) de Coding Dojo.
